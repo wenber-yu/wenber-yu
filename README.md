@@ -13,7 +13,7 @@
 ### ◈ ABOUT
 
 <div align="center">
-  <img src="about.svg" width="560" alt="about" />
+  <img src="about.svg" width="100%" alt="about" />
 </div>
 
 <br>
