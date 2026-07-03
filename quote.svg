@@ -1,0 +1,5 @@
+<svg width="500" height="56" viewBox="0 0 500 56" xmlns="http://www.w3.org/2000/svg">
+  <line x1="70" y1="18" x2="430" y2="18" stroke="#bbb" stroke-width="0.4"/>
+  <text x="250" y="35" text-anchor="middle" font-family="Noto Serif SC,STSong,SimSun,PingFang SC,serif" font-size="14" fill="#777" letter-spacing="8" font-style="italic">「 代码是逻辑的诗，在沉默中构建秩序。 」</text>
+  <line x1="70" y1="44" x2="430" y2="44" stroke="#bbb" stroke-width="0.4"/>
+</svg>
