@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="PeakyBlinders.png" alt="banner" style="max-width:100%;" />
+<img src="PeakyBlinders.avif" alt="banner" style="max-width:100%;" />
 
 <br>
 
