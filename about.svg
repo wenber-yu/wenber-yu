@@ -1,21 +1,21 @@
-<svg width="480" height="200" viewBox="0 0 480 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="560" height="240" viewBox="0 0 560 240" xmlns="http://www.w3.org/2000/svg">
   <!-- top-right corner accent -->
-  <line x1="460" y1="8" x2="480" y2="8" stroke="#ddd" stroke-width="0.5"/>
-  <line x1="480" y1="8" x2="480" y2="28" stroke="#ddd" stroke-width="0.5"/>
+  <line x1="540" y1="8" x2="560" y2="8" stroke="#ddd" stroke-width="0.5"/>
+  <line x1="560" y1="8" x2="560" y2="28" stroke="#ddd" stroke-width="0.5"/>
 
   <!-- bottom-right corner accent -->
-  <line x1="440" y1="192" x2="480" y2="192" stroke="#ddd" stroke-width="0.5"/>
-  <line x1="480" y1="172" x2="480" y2="192" stroke="#ddd" stroke-width="0.5"/>
+  <line x1="520" y1="232" x2="560" y2="232" stroke="#ddd" stroke-width="0.5"/>
+  <line x1="560" y1="212" x2="560" y2="232" stroke="#ddd" stroke-width="0.5"/>
 
   <!-- title centered -->
-  <text x="240" y="56" text-anchor="middle" font-family="Noto Serif SC,STSong,SimSun,PingFang SC,serif" font-size="17" fill="#222" font-weight="bold" letter-spacing="5">世界是一座巨大的迷宫</text>
-  <text x="240" y="82" text-anchor="middle" font-family="Noto Serif SC,STSong,SimSun,PingFang SC,serif" font-size="17" fill="#222" font-weight="bold" letter-spacing="5">代码是唯一的罗盘</text>
+  <text x="280" y="62" text-anchor="middle" font-family="Noto Serif SC,STSong,SimSun,PingFang SC,serif" font-size="20" fill="#222" font-weight="bold" letter-spacing="10">世界是一座巨大的迷宫</text>
+  <text x="280" y="96" text-anchor="middle" font-family="Noto Serif SC,STSong,SimSun,PingFang SC,serif" font-size="20" fill="#222" font-weight="bold" letter-spacing="10">代码是唯一的罗盘</text>
 
   <!-- center divider -->
-  <line x1="200" y1="102" x2="280" y2="102" stroke="#bbb" stroke-width="0.5"/>
+  <line x1="230" y1="118" x2="330" y2="118" stroke="#bbb" stroke-width="0.5"/>
 
   <!-- body centered -->
-  <text x="240" y="132" text-anchor="middle" font-family="PingFang SC,Hiragino Sans GB,Microsoft YaHei,sans-serif" font-size="13" fill="#999" letter-spacing="3">在混沌中寻找秩序</text>
-  <text x="240" y="154" text-anchor="middle" font-family="PingFang SC,Hiragino Sans GB,Microsoft YaHei,sans-serif" font-size="13" fill="#999" letter-spacing="3">在黑暗中点燃微光</text>
-  <text x="240" y="176" text-anchor="middle" font-family="PingFang SC,Hiragino Sans GB,Microsoft YaHei,sans-serif" font-size="13" fill="#999" letter-spacing="3">每一行代码都是对虚无的抵抗</text>
+  <text x="280" y="154" text-anchor="middle" font-family="PingFang SC,Hiragino Sans GB,Microsoft YaHei,sans-serif" font-size="16" fill="#999" letter-spacing="8">在混沌中寻找秩序</text>
+  <text x="280" y="182" text-anchor="middle" font-family="PingFang SC,Hiragino Sans GB,Microsoft YaHei,sans-serif" font-size="16" fill="#999" letter-spacing="8">在黑暗中点燃微光</text>
+  <text x="280" y="210" text-anchor="middle" font-family="PingFang SC,Hiragino Sans GB,Microsoft YaHei,sans-serif" font-size="16" fill="#999" letter-spacing="8">每一行代码都是对虚无的抵抗</text>
 </svg>
